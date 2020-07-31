@@ -2,7 +2,7 @@
 
 The [Neuromatch Academy](https://www.neuromatchacademy.org/) was a summer school that happened in the summer of 2020. In the midst of a pandemic, the school emerged on an online platform reaching out to everyone across the world. The academy served the purpose of training neuroscientists to learn computational tools, make connections to real world neuroscience problems, and promote networking with researchers.
 
-The academy also provided an opportunity for the students to carry out their own mini-project that would last three weeks. Several datasets were provided for exploration. Our group Les Souris Grises, from the pod 041-Gregarious-sambars have decided to go with the Steinmetz data set. Below us is a description of the Steinmetz data set that we chose.
+The academy also provided an opportunity for the students to carry out their own mini-project that would last three weeks. Several datasets were provided for exploration. Our group Decision Makers, from the pod 041-Gregarious-sambars have decided to go with the Steinmetz data set. Below us is a description of the Steinmetz data set that we chose.
 
 
 ## Description and objectives
