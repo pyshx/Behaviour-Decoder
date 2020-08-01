@@ -9,7 +9,7 @@ The academy also provided an opportunity for the students to carry out their own
 
 During a decision making task like the one in the Steinmetz experiment, a number of different brain regions are involved in the processing of sensory information to decision making to motor action. These regions act together in particular networks.
 
-Can we predict the rodent’s movement based on activity from the visual regions before or after the movement has occurred?
+Can we predict the rodent’s movement based on activity from different brain regions before or after the movement has occurred?
 
 Our questions were inspired by some of the original questions from some [exemplary projects](https://docs.google.com/presentation/d/1WAHfJcBPM4rmwwvreAAS92sRYtltJRwklxH-82NzCYo/preview?pru=AAABc3cRwPE*S0Y87T5BNFvf9wvSREdLUQ&slide=id.p).
 
